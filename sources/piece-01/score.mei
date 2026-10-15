@@ -117,7 +117,6 @@
             <zone xml:id="zone-4-13" type="measure" n="52" ulx="1668" uly="1349" lrx="1872" lry="1807"/>
             <zone xml:id="zone-4-14" type="measure" n="53" ulx="277" uly="1872" lrx="964" lry="2330"/>
             <zone xml:id="zone-4-15" type="measure" n="54" ulx="902" uly="1871" lrx="1237" lry="2328"/>
-            <zone xml:id="zone-4-16" type="measure" n="55" ulx="1178" uly="1869" lrx="1831" lry="2326"/>
          </surface>
       </facsimile>
       <body xml:id="body-1">
@@ -413,11 +412,6 @@
                <measure xml:id="measure-54" n="54" facs="#zone-4-15">
                   <staff xml:id="staff-54" n="1">
                      <layer xml:id="layer-54" n="1"/>
-                  </staff>
-               </measure>
-               <measure xml:id="measure-55" n="55" facs="#zone-4-16">
-                  <staff xml:id="staff-55" n="1">
-                     <layer xml:id="layer-55" n="1"/>
                   </staff>
                </measure>
                </section>
