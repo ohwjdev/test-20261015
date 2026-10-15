@@ -135,7 +135,8 @@
                   <staffGrp xml:id="staffGrp-1">
                      <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
                      <staffGrp xml:id="staffGrp-2" symbol="brace" bar.thru="true">
-                        <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4"/>
+                        <instrDef xml:id="instrDef-1"/>
+                        <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
                         <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4"/>
                      </staffGrp>
                   </staffGrp>
